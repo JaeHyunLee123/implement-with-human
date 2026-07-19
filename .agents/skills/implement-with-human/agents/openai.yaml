@@ -1,0 +1,4 @@
+interface:
+  display_name: "Implement with Human"
+  short_description: "Human-gated implementation slices"
+  default_prompt: "Use $implement-with-human to implement this spec in human-reviewed slices."
